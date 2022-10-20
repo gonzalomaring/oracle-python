@@ -1,3 +1,3 @@
 # Oracle-Python
 
-Integración de una pequeña base de datos con python
+Integración de una pequeña base de datos Oracle con Python
